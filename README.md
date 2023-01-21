@@ -18,6 +18,6 @@ After doing so, take the token and paste it in the "<Bot_Token>" space on the la
 To start the bot you must first navigate to the directory where it
 is saved and then running it, for example
   
-  cd C:\Users\zaid2\WikiBot
-  py BotCode.py
+  	cd C:\Users\zaid2\WikiBot
+  	py BotCode.py
 
